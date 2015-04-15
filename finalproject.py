@@ -177,7 +177,7 @@ nospaces = collapse_whitespace(texts)
 
 #print word_count(texts, 'hey')
 
-
+#adding comment for github
 lets = []
 for x in nospaces:
     if x not in lets:
